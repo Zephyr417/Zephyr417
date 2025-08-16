@@ -16,17 +16,8 @@ class Myself:
             "Bachelor": "BEng Opto-electronic Information Technology, Beijing Institute of Technology"
         }
 
-    def location():
-   	    return Dublin_Ireland()
-
     def skills():
-        return [
-            'Python',
-            'SQL',
-            'Excel',
-            'Tableau',
-            'C'
-        ]
+        return ['Python','SQL','Excel','Tableau','C']
 
     def personality():
         return ['Focused', 'Diligent', 'Conscientious', 'Responsible']
@@ -36,7 +27,6 @@ class Myself:
    			'Playing Dota2',
             'Listening to music'
    			'Playing soccer',
-   			'Watching TV series',
    			'Eating hotpot',
             'Following my wife’s orders...and they never run out'
    		]
@@ -51,25 +41,26 @@ class Myself:
             'Go to Taylor Swift concert',
             'Live by the sea',
             ...
-            'Life is so short, need to finish my ambitions before lunch tomorrow'
         ]
 
 ```
 
 ## 🎩 Ok, serious hats on 
-Here are some ideas to get you started:
+### 💻 My Personal Website
+This is my online hub where you can learn more about me — my **portfolio projects** and skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m a self-starter with a passion for continuous learning and sharpening my data analysis skills. Lately, I’ve been working on projects using **SQL, Excel, Python, and Tableau**, exploring datasets online. I’m always looking for opportunities to grow, take on new challenges, and turn data into actionable insights.  Currently on the lookout for a **data analyst role** where I can apply what I’ve learned and keep leveling up.
+
+⚡Take a look here:  [My Personal Website](https://zephyr417.github.io/)
 
 ### 📊 Tableau
-Check out my interactive dashboard: [Dashboard Link](https://public.tableau.com/views/salestransactiondata/MonthlySalesDataMonitoring?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Check out my interactive dashboard: 
 
-### 🌐 Connect with me
-[LinkedIn](https://www.linkedin.cn/incareer/in/ziang-liu-8a441b218/) | [Portfolio](https://zephyr417.github.io/)
+### 🚀 My Projects 
+- 📚 [Python Job Market Analysis Project](https://github.com/Zephyr417/Data-Job-Market-Analysis?tab=readme-ov-file) – My first data analysis project using Python.
+- 📈 [SQL Data Analysis Project](https://github.com/Zephyr417/SQL-Intermediate-project) – SQL & Python in action.
+- 📊 [Tableau Sales Monitoring Dashboard](https://public.tableau.com/views/salestransactiondata/MonthlySalesDataMonitoring?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) – An interactive dashboard I built.
+
+
+### 🌐 Linkedin
+[LinkedIn](https://www.linkedin.cn/incareer/in/ziang-liu-8a441b218/) 
