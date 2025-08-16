@@ -45,7 +45,7 @@ class Myself:
 
 ```
 
-## 🎩 Ok, serious hats on 
+## 🎩 Ok. Serious hats on 
 ### 💻 My Personal Website
 This is my online hub where you can learn more about me — my **portfolio projects** and skills.
 
