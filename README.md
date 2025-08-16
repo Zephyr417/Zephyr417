@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Zephyr417/Zephyr417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### 📊 Tableau
+Check out my interactive dashboard: [Dashboard Link](https://public.tableau.com/views/salestransactiondata/MonthlySalesDataMonitoring?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### 🌐 Connect with me
+[LinkedIn](https://linkedin.com/in/johnDoe) | [Portfolio](https://johnDoe.com)
