@@ -7,7 +7,7 @@ class Myself:
 	user = 'Ziang Liu'
    	current_status = 'Recent Graduate From Trinity College Dublin'
     dream_job = 'Data Analyst'
-    motto = 'Serious at work, playful at heart, curious always'
+    motto = 'Serious at work, Playful at heart, Curious always'
 
     def education(degree):
         cases = {
@@ -54,10 +54,10 @@ I’m a self-starter with a passion for continuous learning and sharpening my da
 ⚡Take a look here:  [My Personal Website](https://zephyr417.github.io/)
 
 ### 🚀 My Projects 
-- 📚 [Python Job Market Analysis Project](https://github.com/Zephyr417/Data-Job-Market-Analysis?tab=readme-ov-file) – My first data analysis project using Python.
-- 📈 [SQL Data Analysis Project](https://github.com/Zephyr417/SQL-Intermediate-project) – SQL & Python in action.
-- 📊 [Tableau Sales Monitoring Dashboard](https://public.tableau.com/views/salestransactiondata/MonthlySalesDataMonitoring?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) – An interactive dashboard I built.
+- 📚 [Python Job Market Analysis Project](https://github.com/Zephyr417/Data-Job-Market-Analysis?tab=readme-ov-file) – Analyzed the US data-related job market using Python, exploring trends and insights.
+- 📈 [SQL Data Analysis Project](https://github.com/Zephyr417/SQL-Intermediate-project) – Used Contoso sales data to analyze customers and boost retention insights.
+- 📊 [Tableau Sales Monitoring Dashboard](https://public.tableau.com/views/salestransactiondata/MonthlySalesDataMonitoring?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) – Built an interactive dashboard to monitor monthly sales data for a sample company.
 
 
 ### 🌐 Linkedin
-[LinkedIn](https://www.linkedin.cn/incareer/in/ziang-liu-8a441b218/) 
+[My Linkedin profile](https://www.linkedin.cn/incareer/in/ziang-liu-8a441b218/) 
