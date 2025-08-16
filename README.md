@@ -53,9 +53,6 @@ I’m a self-starter with a passion for continuous learning and sharpening my da
 
 ⚡Take a look here:  [My Personal Website](https://zephyr417.github.io/)
 
-### 📊 Tableau
-Check out my interactive dashboard: 
-
 ### 🚀 My Projects 
 - 📚 [Python Job Market Analysis Project](https://github.com/Zephyr417/Data-Job-Market-Analysis?tab=readme-ov-file) – My first data analysis project using Python.
 - 📈 [SQL Data Analysis Project](https://github.com/Zephyr417/SQL-Intermediate-project) – SQL & Python in action.
