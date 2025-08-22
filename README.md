@@ -57,7 +57,7 @@ I’m a self-starter with a passion for continuous learning and sharpening my da
 - 📚 [Python Job Market Analysis Project](https://github.com/Zephyr417/Data-Job-Market-Analysis?tab=readme-ov-file) – Analyzed the US data-related job market using Python, exploring trends and insights.
 - 📈 [SQL Data Analysis Project](https://github.com/Zephyr417/SQL-Intermediate-project) – Used Contoso sales data to analyze customers and boost retention insights.
 - 📊 [Tableau Sales Monitoring Dashboard](https://public.tableau.com/views/salestransactiondata/MonthlySalesDataMonitoring?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) – Built an interactive dashboard to monitor monthly sales data for a sample company.
-
+- 💰 [LLM-Based Sentiment Analysis for Bitcoin Market Prediction](https://github.com/Zephyr417/SQL-Intermediate-project) – This MSc project studies how news sentiment can help predict Bitcoin price movements. It tests whether strategies based on sentiment can improve trading results compared to traditional approaches.
 
 ### 🌐 Linkedin
 [My Linkedin profile](https://www.linkedin.cn/incareer/in/ziang-liu-8a441b218/) 
