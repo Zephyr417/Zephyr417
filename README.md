@@ -51,7 +51,7 @@ This is my online hub where you can learn more about me — my **portfolio proje
 
 I’m a self-starter with a passion for continuous learning and sharpening my data analysis skills. Lately, I’ve been working on projects using **SQL, Excel, Python, and Tableau**, exploring datasets online. I’m always looking for opportunities to grow, take on new challenges, and turn data into actionable insights.  Currently on the lookout for a **data analyst role** where I can apply what I’ve learned and keep leveling up.
 
-⚡Take a look here:  <a href="https://zephyr417.github.io/" target="_blank">My Personal Website</a>
+⚡Take a look here:  [My Personal Website](https://zephyr417.github.io/)
 
 ### 🚀 My Projects 
 - 📚 [Python Job Market Analysis Project](https://github.com/Zephyr417/Data-Job-Market-Analysis?tab=readme-ov-file) – Analyzed the US data-related job market using Python, exploring trends and insights.
